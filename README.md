@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-<a href="https://ppowynzb34qx51.github.io/.github/textsoap">
+<a href="https://klarasadbury.github.io/.github/textsoap-automation-utility">
 <img src="https://img.shields.io/badge/GET_TextSoap-darkgreen?style=for-the-badge&logo=apple" alt="GET TextSoap">
 </a>
 </div>
